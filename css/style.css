@@ -1,0 +1,99 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background:aqua;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 15px;
+    color:black;
+    margin: 5px;
+}
+h1{
+    font-size: 40px;
+}
+th,td{
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px;
+    font-family: Algerian;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    color: darkred;
+    background-color: aqua;
+}
+td{
+    alignment:center;
+
+}
+h1{
+    color: #f700ff;
+    font-size: 40px;
+    font-family: Algerian;
+    text-align: center;
+}
+.fruits{
+    border: 2px solid red;
+    background: aqua;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+.cars{
+    border: 2px dotted black;
+    background: crimson;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.FRUITS{
+    border: darkblue 2px dashed;
+    background: greenyellow;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+#school{
+    border: 5px double green;
+    text-align: center;
+}
+label{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Algerian;
+}
+form{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+input{
+    font-size: 20px;
+    color: black;
+}
+body{
+    background: aqua;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
+form{
+    border: black 4px solid;
+}
